@@ -32,10 +32,8 @@ img {
   width: 80%;
 }
 
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-
+.button-refresh{
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
 }
